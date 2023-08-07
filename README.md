@@ -47,3 +47,4 @@ _Ofir Mirovsky_
 _ofirm@campus.technion.ac.il_
 _08/23_
 
+![miro10Process](https://projecteuler.net/profile/miro10.png)
